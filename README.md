@@ -86,3 +86,7 @@ The detailed technical report for this project can be found at [Technical Report
 ![](demonstartion_2.gif) 
 
 ![](demonstration_3.gif)
+
+`Here is a link to the presentation file`
+
+- ### [Presentation](https://docs.google.com/presentation/d/19fyibwT79Cp_4SRhIms8ZKlKTbq3Tayk/edit?usp=sharing&ouid=104694076089026008591&rtpof=true&sd=true)
